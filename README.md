@@ -43,3 +43,5 @@
 <div align="center">
  Isso é apenas o início de uma grande jornada!!
 </div>
+
+![Snake animation](https://github.com/caiolacerdamt/caiolacerdamt/blob/output/github-contribution-grid-snake.svg)
