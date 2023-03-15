@@ -6,7 +6,7 @@
 
 🤗 Sou uma pessoa ágil e habilidosa, que gosta de enfrentar desafios.
 
-🚀 Me considero bastante otimista e esforçado.
+🚀 Me considero bastante otimista e  dedicado.
 
 ##
 
