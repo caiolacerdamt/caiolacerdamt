@@ -14,6 +14,7 @@
  <div align="center" >
   <a href="https://github.com/caiolacerdamt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiolacerdamt&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
