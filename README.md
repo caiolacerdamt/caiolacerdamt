@@ -2,7 +2,7 @@
 
 ##
 
-📌 Prazer, me chamo Caio e estou cursando Engenharia de Software na Universidade Católica de Brasília.
+📌 Prazer, me chamo Caio e estou cursando Engenharia de Software na Universidade de Brasília.
 
 🤗 Sou uma pessoa ágil e habilidosa, que gosta de enfrentar desafios.
 
