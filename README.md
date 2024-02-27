@@ -2,11 +2,13 @@
 
 ##
 
-📌 Prazer, me chamo Caio e estou cursando Engenharia de Software na Universidade de Brasília.
+📌 Prazer, meu nome é Caio e estou cursando Engenharia de Software na Universidade de Brasília.
 
-🤗 Sou uma pessoa ágil e habilidosa, que gosta de enfrentar desafios.
+🤗 Sou uma pessoa ágil e habilidosa, sempre motivada a enfrentar novos desafios.
 
-🚀 Me considero bastante otimista e  dedicado.
+🚀 Sou otimista e dedicado, especialmente em minha jornada para me tornar um Cientista de Dados.
+
+💼 Estou buscando minha primeira oportunidade na área de dados e atualmente estou ampliando meus conhecimentos e habilidades para alcançar esse objetivo.
 
 ##
 
